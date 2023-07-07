@@ -1,0 +1,6 @@
+path: '~/uc-scripts/codec-compliance-report/'
+host_vars_path: '~/uc-scripts/codec-compliance-report/host_vars/'
+output_path: '~/uc-scripts/codec-compliance-report/output/'
+basic_auth:
+  username: ''
+  password: ''
